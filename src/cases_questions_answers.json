@@ -1,0 +1,474 @@
+[
+  {
+    "case_title": "CASO SERIADO: Maria, 12 años",
+    "case_content": "Maria, 12 años, con antecedente de asma bronquial desde los 5 años, llega al servicio de urgencias acompañada de su madre[cite: 1, 2, 5, 8]. Refiere que hace 8 horas comenzó con tos seca, silbidos en el pecho y dificultad para respirar progresiva[cite: 10, 11, 15]. La madre menciona que hace 2 días Maria inició con sintomas de resfriado (rinorrea y estornudos)[cite: 18, 21, 22]. No ha respondido al salbutamol inhalado que usa habitualmente (2 dosis cada 4 horas en las últimas 8 h)[cite: 22, 23, 24, 31]. Niega fiebre, alergias conocidas o exposición reciente a humo o alergenos[cite: 31, 34, 39, 42]. Exploración física: TA 110/70 mmHg, FC: 130 lpm, FR: 32 rpm, Temp: 36.8°C, Sato,. 88% al aire ambiente[cite: 42, 48, 51]. Ansiosa, se agita al hablar, uso de músculos accesorios, tiraje intercostal y subcostal[cite: 56, 59]. Auscultación: sibilancias bilaterales espiratorias prolongadas y disminución del murmullo vesicular en bases[cite: 59, 62, 65, 68].",
+    "questions": [
+      {
+        "question": "¿Cuál es el diagnóstico inmediato y la clasificación de gravedad más adecuada para María? [cite: 71, 75]",
+        "options": [
+          "Status asmática [cite: 76]",
+          "Crisis asmática grave [cite: 82]",
+          "Crisis asmática moderada [cite: 83]",
+          "Crisis asmática leve [cite: 84]"
+        ],
+        "correct_answer": "Crisis asmática grave [cite: 82]"
+      },
+      {
+        "question": "¿Cuál es el plan de tratamiento inicial MÁS apropiado en urgencias? [cite: 86]",
+        "options": [
+          "Administrar adrenalina subcutánea y solicitar radiografia de torax inmediata[cite: 97, 100].",
+          "Nebulización con salbutamol 2.5 mg + Ipratropio 0.25 mg, oxigenoterapia y metilprednisolona $N1-2~mg/kg$[cite: 102, 107].",
+          "Oxigenoterapia, salbutamol inhalado y administrar antibióticos de amplio espectro[cite: 110, 117].",
+          "Administrar prednisona oral $1~mg/kg~Y$ esperar 2 horas para reevaluar[cite: 121, 122, 126]."
+        ],
+        "correct_answer": "Nebulización con salbutamol 2.5 mg + Ipratropio 0.25 mg, oxigenoterapia y metilprednisolona $N1-2~mg/kg$ [cite: 102, 107]"
+      },
+      {
+        "question": "¿Qué parámetro o estudio sería MENOS útil para decidir hospitalizar a este paciente tras 2 horas de tratamiento? [cite: 129, 132, 135]",
+        "options": [
+          "Taquicardis persistente (FC: 125 lpm) y taquipnea persistente (FR: 28 rpm) [cite: 142, 143]",
+          "Gasometria arterial que muestra pH. 7.28 y PaCO, 50 mmHg[cite: 144, 145].",
+          "Saturación de oxigeno persistente entre 88 y 90% con mascarilla de 5 L/min[cite: 146, 147, 148].",
+          "Radiografia de tórax con atrapamiento aéreo bilateral[cite: 149]."
+        ],
+        "correct_answer": "Radiografia de tórax con atrapamiento aéreo bilateral [cite: 149]"
+      }
+    ]
+  },
+  {
+    "case_title": "CASO: Sarampión (Epidemiología)",
+    "case_content": "Ante el brote actual de sarampión en el pais; un lactante de 9 meses es llevado a su consulta para vacunación[cite: 12, 16]. Según el esquema nacional y las recomendaciones epidemiológicas ante el brote[cite: 16, 19, 25, 26],",
+    "questions": [
+      {
+        "question": "¿Cuál es la conducta correcta a seguir? [cite: 25, 29]",
+        "options": [
+          "Esperar hasta los 12 meses para aplicar la primera dosis, porque antes no hay respuesta inmune adecuada [cite: 32, 35, 38]",
+          "Aplicar una dosis de SRP (sarampión-rubéola-parotiditis) a los 9 meses como dosis de cero, y luego reforzar a los 12 meses y 18 meses [cite: 43, 47, 49, 52]",
+          "dContraindicar la vacuna hasta los 2 años por riesgo de encefalitis [cite: 54, 57]",
+          "Aplicar inmunoglobulina intramuscular en lugar de vacuna por ser menor de 12 meses [cite: 61, 63, 66]"
+        ],
+        "correct_answer": "Aplicar una dosis de SRP (sarampión-rubéola-parotiditis) a los 9 meses como dosis de cero, y luego reforzar a los 12 meses y 18 meses [cite: 43, 47, 49, 52]"
+      }
+    ]
+  },
+  {
+    "case_title": "CASO SERIADO: Lactante de 8 meses (Gastroenteritis)",
+    "case_content": "Lactante de 8 meses, sin antecedentes de importancia, es traído a urgencias por cuadro de 24 horas de evolución caracterizado por fiebre (38.5°C), vomito en 5 ocasiones y evacuaciones líquidas muy frecuentes (10 en las últimas 12 horas)[cite: 69, 72, 74, 77, 80, 92]. La madre refiere que las évacuaciones son \"muy aguadas, de olor fuerte y de color amarillo verdoso\"[cite: 92, 93, 87]. A la exploración física, el paciente presenta: ojos hundidos, llanto sin lágrimas, signo del pliegue muy lento (>2 segundos pero retorna), mucosa oral seca, irritable pero bebe agua con avidez[cite: 111, 115, 118, 123, 127]. Frecuencia cardíaca: 160 Ipm. Peso: 8 kg[cite: 127, 130].",
+    "questions": [
+      {
+        "question": "Desde el punto de vista epidemiológico y clinico, ¿Cuál es el agente etiológico más probable en este paciente? [cite: 88, 89]",
+        "options": [
+          "Shigella dysenteriae [cite: 95]",
+          "Vibrio cholerae [cite: 98]",
+          "Salmonella typhi [cite: 101]",
+          "Rotavirus [cite: 108]"
+        ],
+        "correct_answer": "Rotavirus [cite: 108]"
+      },
+      {
+        "question": "Según los lineamientos de la OMS, ¿Cómo clasifica la deshidratación y qué Plan de tratamiento debe iniciarse? [cite: 133, 136, 139]",
+        "options": [
+          "Choque hipovolémico: Expansión con $40~mL/kg$ en 15 minutos [cite: 152, 153]",
+          "Deshidratación moderada (Plan B): Iniciar rehidratación Oral (SRO) a 50-$100~mL/kg$ en 4 horas, vigilando tolerancia[cite: 154, 155, 156].",
+          "Deshidratación grave (Plan C) Iniciar liquidos IV de inmediato [cite: 157]",
+          "Deshidratación leve (Plan A): Manejo en casa con SRO y alimentación [cite: 164, 166]"
+        ],
+        "correct_answer": "Deshidratación moderada (Plan B): Iniciar rehidratación Oral (SRO) a 50-$100~mL/kg$ en 4 horas, vigilando tolerancia [cite: 154, 155, 156]"
+      },
+      {
+        "question": "EXAMEN ACTUAL El paciente inicia rehidratación. Sin embargo, a los 30 minutos de iniciada la rehidratación oral, presenta dos vómitos abundantes y rechaza seguir tomando. Al reevaluarlo, se observa: letárgico llanto débil, ojos hundidos, llenado capilar de 5 segundos, pulsos periféricos débiles. Ante este deterioro clinico, ¿Cuál es la conducta inmediata más adecuada? [cite: 3, 4, 6, 9, 13, 14, 17, 20, 27, 28]",
+        "options": [
+          "Suspender via oral e iniciar Plan C (expansión IV) con $20~mL/kg$ de Solución Hartmann en bolo rápido (máximo 30 minutos), reevaluar y repetir si es necesario[cite: 33, 36, 40, 44, 45].",
+          "Continuar SRO por sonda nasogástrica[cite: 50, 53].",
+          "Administrar antieméticos (ondansetrón) y esperar 30 minutos para reintentar SRO[cite: 55, 58, 60].",
+          "Cambiar a SRO diluida al 50% para mejorar tolerancia[cite: 64, 67]."
+        ],
+        "correct_answer": "Suspender via oral e iniciar Plan C (expansión IV) con $20~mL/kg$ de Solución Hartmann en bolo rápido (máximo 30 minutos), reevaluar y repetir si es necesario [cite: 33, 36, 40, 44, 45]"
+      }
+    ]
+  },
+  {
+    "case_title": "CASO SERIADO: Lactante de 10 meses (Dolor abdominal)",
+    "case_content": "Lactante de 10 meses, previamente sano, presenta un episodio súbito de llanto intenso e inconsolable que dura 15 minutos, durante el cual flexiona las piernas sobre el abdomen[cite: 73, 78]. El episodio cede espontáneamente y el niño juega normalmente, pero se repite cada 30-40 minutos[cite: 81, 90]. En las últimas 2 horas, la madre nota que ha vomitado en dos ocasiones (contenido gástrico primero, luego bilioso) y presenta una evacuación mucosa con sangre de aspecto oscuro mezclada[cite: 90, 91, 94]. El paciente es llevado de inmediato al servicio de urgencias. Se encuentra irritable, con signos vitales estables, sin datos de peristaltismo[cite: 125, 128, 131, 134].",
+    "questions": [
+      {
+        "question": "¿cuál es el diagnóstico sindromático más probable? [cite: 94, 96]",
+        "options": [
+          "Gastroenteritis aguda complicada con deshidratación [cite: 99, 105]",
+          "Obstrucción intestinal completa por bridas [cite: 106, 109]",
+          "Invaginación intestinal con sospecha de isquemia intestinal [cite: 112, 113]",
+          "Võlvulo intestinal con mairotación [cite: 119]"
+        ],
+        "correct_answer": "Invaginación intestinal con sospecha de isquemia intestinal [cite: 112, 113]"
+      },
+      {
+        "question": "¿Cuál es la conducta inicial más adecuada? [cite: 137, 140]",
+        "options": [
+          "Laparotomía exploradora de urgencia y programar cirugía en 12 horas por riesgo de necrosis[cite: 160, 159, 161].",
+          "Radiografia de abdomen simple y, si hay datos sugestivos, referir a cirugía[cite: 162, 163].",
+          "Reducción hidrostática o neumática (enema con aire o bario) guiada por fluoroscopia o USG[cite: 165, 167, 169].",
+          "Iniciar antibióticos de amplio espectro [cite: 171]"
+        ],
+        "correct_answer": "Reducción hidrostática o neumática (enema con aire o bario) guiada por fluoroscopia o USG [cite: 165, 167, 169]"
+      },
+      {
+        "question": "Se confirmo el diagnóstico y se realizo reducción parcial al 80%, persistiendo con un pequeño defecto en la válvula ileocecal, después de 3 intentos el paciente continúa con dolor intermitente y vómito. ¿Cuál es la conducta más adecuada en este escenario? [cite: 174, 175, 173]",
+        "options": [
+          "Iniciar antibióticos de amplio espectro y observar por 24 horas[cite: 201].",
+          "Realizar enema con bario en lugar de aire para mayor presión hidrostática[cite: 202, 203].",
+          "Realizar reducción quirúrgica (laparotomia o laparoscopia) por probable invaginación irreductible o necrosis[cite: 204, 205].",
+          "Repetir el enema neumático cada 6 horas hasta lograr la reducción completa[cite: 206, 207]."
+        ],
+        "correct_answer": "Realizar reducción quirúrgica (laparotomia o laparoscopia) por probable invaginación irreductible o necrosis [cite: 204, 205]"
+      }
+    ]
+  },
+  {
+    "case_title": "CASO SERIADO: Lactante de 6 meses (Tos)",
+    "case_content": "Lactante de 6 meses, previamente sano y con esquema de vacunación incompleto, acude a consulta por episodios de tos paroxística, seguida de cianosis peribucal y estridor inspiratorio[cite: 208, 223, 225]. La madre refiere que el cuadro inició hace 2 semanas con rinorrea y tos leve, que ha empeorado progresivamente en frecuencia e intensidad. No presenta fiebre[cite: 225, 230, 232, 234]. Al examen físico se encuentra activo, con saturación de oxígeno del 92% al aire ambiente, y durante la exploración presenta un episodio de tos en salvas seguido de pausa respiratoria breve y cianosis, con posterior recuperación espontánea[cite: 234, 245, 253, 258, 259, 260, 273].",
+    "questions": [
+      {
+        "question": "¿Cuál es el diagnóstico más probable? [cite: 275]",
+        "options": [
+          "Laringotraqueitis (crup) [cite: 280]",
+          "Bronquiolitis aguda [cite: 283]",
+          "Neumonia atipica [cite: 285]",
+          "Tos ferina (coqueluche) [cite: 288]"
+        ],
+        "correct_answer": "Tos ferina (coqueluche) [cite: 288]"
+      },
+      {
+        "question": "Ante la sospecha diagnóstica, se solicitan radiografía de tórax y biometria hemática. ¿Cuál de los siguientes hallazgos (imagen + laboratorio) es el más característico de esta enfermedad? [cite: 176, 178, 180, 181, 183]",
+        "options": [
+          "Hiperinsuflación pulmonar + leucocitosis leve con neutrofilia [cite: 186, 187]",
+          "Infiltrado alveolar segmentario + leucocitosis >15,000 con desviación izquierda[cite: 188, 192].",
+          "Estenosis subglótica (signo del campanario) + leucocitos normales[cite: 194, 195].",
+          "Bordes cardiacos borrosos (corazón deshilachado\") + leucocitosis >30,000 con linfocitosis >80%[cite: 198]."
+        ],
+        "correct_answer": "Bordes cardiacos borrosos (corazón deshilachado\") + leucocitosis >30,000 con linfocitosis >80% [cite: 198]"
+      },
+      {
+        "question": "¿Cuál es el método diagnóstico de elección para confirmar el diagnóstico en este caso? [cite: 177, 179]",
+        "options": [
+          "PCR en tiempo real (RT-PCR) para Bordetella pertussis [cite: 182, 184]",
+          "Hemocultivo [cite: 185]",
+          "Radiografia de tórax [cite: 191]",
+          "Prueba rápida de antigeno para Bordetella pertussis [cite: 193]"
+        ],
+        "correct_answer": "PCR en tiempo real (RT-PCR) para Bordetella pertussis [cite: 182, 184]"
+      },
+      {
+        "question": "El paciente se encuentra hermodinámicamente estable, pero presenta tos paroxística con cianosis inducida por la tos. Bajo los criterios de la GPC ¿Cuál es el tratamiento de elección en esta fase? [cite: 209, 210]",
+        "options": [
+          "Corticoesteroide Sistemico [cite: 211]",
+          "Ceftriaxona intravenosa [cite: 219]",
+          "Solución salina hipertonica nebulizada [cite: 220]",
+          "Azitromicina oral [cite: 221]"
+        ],
+        "correct_answer": "Azitromicina oral [cite: 221]"
+      },
+      {
+        "question": "¿Cuál es la estrategia más efectiva para prevenir esta enfermedad en lactantes menores de 6 meses? [cite: 226, 227]",
+        "options": [
+          "Vacunar a los contactos cercanos y a la madre durante el embarazo entre las 27-36 SDG[cite: 233, 235, 237, 241].",
+          "Administrar la vacuna DPTa (difteria, tos ferina acelular, tetanos) al lactante para que el bebe ya nazca escuda[cite: 240, 246, 247, 255, 257, 264, 268, 269].",
+          "Realizar lavados nasales diarios durante la temporada de virus respiratorios[cite: 254, 263, 267].",
+          "Evitar el contacto con personas con sintomas respiratorios[cite: 271, 272]."
+        ],
+        "correct_answer": "Vacunar a los contactos cercanos y a la madre durante el embarazo entre las 27-36 SDG [cite: 233, 235, 237, 241]"
+      },
+      {
+        "question": "¿Cuál de los siguientes factores se asocia con mayor riesgo de complicaciones graves y mal pronóstico en un lactante con esta enfermedad? [cite: 276, 278, 281, 282]",
+        "options": [
+          "Inicio temprano de tratamiento antibiótico (<7 dias de evolución)[cite: 284, 287].",
+          "Tos paroxistica [cite: 286]",
+          "Edad menor de 6 meses [cite: 290]",
+          "Esquema de vacunación completo para la edad [cite: 292]"
+        ],
+        "correct_answer": "Edad menor de 6 meses [cite: 290]"
+      }
+    ]
+  },
+  {
+    "case_title": "CASO SERIADO: Lactante de 10 meses (Exantema)",
+    "case_content": "Lactante de 10 meses, previamente sano, sin vacunas registradas, acude a urgencias por fiebre de $39.5^{circ}C$ de 4 días de evolución, tos seca irritativa, conjuntivitis bilateral y rinorrea[cite: 212, 213, 214]. La madre refiere que hace 2 días notó pequeñas manchas blancas en la mucosa oral y hoy apareció un exantema máculopapular que inició en la cabeza (detrás de las orejas) y se extendió al tronco[cite: 215, 216, 217]. El paciente no ha viajado recientemente, pero un primo de 7 años no vacunado tuvo fiebre y exantema la semana anterior[cite: 218, 222].",
+    "questions": [
+      {
+        "question": "¿Cuál es el diagnóstico más probable? [cite: 222, 224]",
+        "options": [
+          "Rubéola [cite: 228]",
+          "Exantema súbito (roseola) [cite: 231]",
+          "Eritema infeccioso (quinta enfermedad) [cite: 236, 239]",
+          "Sarampión [cite: 248]"
+        ],
+        "correct_answer": "Sarampión [cite: 248]"
+      },
+      {
+        "question": "Durante el examen físico, se observan pequeñas lesiones blanquecinas sobre una base eritematosa en la mucosa yugal, a nivel de los conductos parotideos. ¿Cómo se denominan estas lesiones y en qué etapa aparecen tipicamente? [cite: 265, 270, 274, 277, 279]",
+        "options": [
+          "Enantema de Köbner-fase de convalecencia [cite: 297, 298]",
+          "Signo de Koplik fase prodrómica [cite: 299]",
+          "Signo de Koplik fase exantemática [cite: 300]",
+          "Manchas de Forschheimer - fase exantemática [cite: 301]"
+        ],
+        "correct_answer": "Signo de Koplik fase prodrómica [cite: 299]"
+      },
+      {
+        "question": "El lactante presenta dificultad respiratoria progresiva, saturación de oxigeno del 88% al aire ambiente y estertores crepitantes en ambas bases pulmonares. ¿Cuál es la complicación más frecuente y grave de esta enfermedad en niños menores de 5 años? [cite: 306, 307]",
+        "options": [
+          "Panencefalitis esclerosante subaguda [cite: 308]",
+          "Neumonia [cite: 309]",
+          "Encefalitis aguda postinfecciosa [cite: 310]",
+          "Laringotraqueitis [cite: 311]"
+        ],
+        "correct_answer": "Neumonia [cite: 309]"
+      },
+      {
+        "question": "El paciente se encuentra en el dia 2 del exantema. Se solicita serología para anticuerpos IgM la cual reporta un resultado negativo. Ante este hallazgo, ¿Cuál es la conducta diagnóstica correcta? [cite: 312, 313, 314]",
+        "options": [
+          "Descartar sarampión porque la IgM es diagnóstica desde el inicio del exantema[cite: 315, 316].",
+          "Repetir la IgM a las 24 horas porque la positividad es inmediata [cite: 317]",
+          "Realizar biopsia de piel para Inmunofluorescencia directa [cite: 318]",
+          "Solicitar RT-PCR (muestra nasofaringea u orina) ya que la IgM puede ser negativa en los primeros 3-7 dias[cite: 319]."
+        ],
+        "correct_answer": "Solicitar RT-PCR (muestra nasofaringea u orina) ya que la IgM puede ser negativa en los primeros 3-7 dias [cite: 319]"
+      },
+      {
+        "question": "Además del soporte general y el aislamiento, ¿Cuál es el tratamiento específico que ha demostrado reducir la mortalidad y las complicaciones graves en niños con esta enfermedad? [cite: 320]",
+        "options": [
+          "Vitamina A (dos dosis separadas por 24 horas) [cite: 322]",
+          "Aciclovir oral [cite: 323]",
+          "Inmunoglobulina intravenosa [cite: 324]",
+          "Ribavirina intravenosa [cite: 325]"
+        ],
+        "correct_answer": "Vitamina A (dos dosis separadas por 24 horas) [cite: 322]"
+      }
+    ]
+  },
+  {
+    "case_title": "Recién nacido de 34 semanas (Dificultad respiratoria)",
+    "case_content": "Recién nacido de 34 semanas de gestación, producto de parto vaginal sin complicaciones, peso 1,900 g[cite: 328]. Madre de 19 años, sin control prenatal, sin administración de corticoides antenatales[cite: 329]. Al nacimiento, el neonato presenta llanto débil, frecuencia respiratoria de 72 rpm, quejido espiratorio, aleteo nasal y tiraje subcostal[cite: 330]. Se administra oxígeno por puntas nasales. Gasometría arterial: pH 7.28, $PaCO_{2}$ 55 mmHg, $Paunderline{O_{2}50}$ mmHg (FIO, 0.30)[cite: 331].",
+    "questions": [
+      {
+        "question": "¿Cuál es el diagnóstico más probable? [cite: 332]",
+        "options": [
+          "Taquipnea transitoria del recién nacido (TTRN) [cite: 333]",
+          "Sindrome de dificultad respiratoria (SDR) por déficit de surfactante PREMATURO [cite: 334]",
+          "Neumonia congénita [cite: 335]",
+          "Hipertensión pulmonar persistente del recién nacido (HPPRN) [cite: 336]"
+        ],
+        "correct_answer": "Sindrome de dificultad respiratoria (SDR) por déficit de surfactante PREMATURO [cite: 334]"
+      },
+      {
+        "question": "Se solicita radiografía de tórax. ¿Cuál de los siguientes hallazgos esperaría encontrar para apoyar el diagnóstico presuntivo? [cite: 337]",
+        "options": [
+          "Patrón reticulogranular (\"vidrio esmerilado\") con broncograma aéreo y disminución de la transparencia pulmonar[cite: 338].",
+          "Hiperinsuflación pulmonar con atrapamiento aéreo y cardiomegalia [cite: 339]",
+          "Imagen en \"vidrio esmerilado generalizado, broncograma aéreo e infiltrado intersticial fi[cite: 340].",
+          "Infiltrados intersticiales difusos, corazón con bordes mal definidos[cite: 341]."
+        ],
+        "correct_answer": "Patrón reticulogranular (\"vidrio esmerilado\") con broncograma aéreo y disminución de la transparencia pulmonar [cite: 338]"
+      },
+      {
+        "question": "El paciente recibe presión positiva continua en la vía aérea (CPAP) nasal y surfactante exógeno. A las 48 horas de vida, presenta empeoramiento repentino de la dificultad respiratoria, aumento del aporte de oxígeno, ausencia de ruidos respiratorios en hemitórax derecho y desviación del latido cardíaco hacia la izquierda[cite: 342, 343]. ¿Cuál es la complicación más probable? [cite: 344]",
+        "options": [
+          "Neumonia nosocomial [cite: 345]",
+          "Neumotorax a tensión [cite: 346]",
+          "Persistencia del conducto arterioso [cite: 347]",
+          "Hemorragia intraventricular grado III [cite: 348]"
+        ],
+        "correct_answer": "Neumotorax a tensión [cite: 346]"
+      },
+      {
+        "question": "Ante la sospecha de SDR, se decide administrar surfactante exógeno. ¿Cuál de las siguientes vías de administración ha demostrado mayor efectividad y es la estándar actualmente? [cite: 349, 350]",
+        "options": [
+          "Intramuscular en dosis única [cite: 351]",
+          "Intratraqueal en bolo fraccionado durante la ventilación mecánica [cite: 352]",
+          "Intravenoso lento [cite: 353]",
+          "Nebulizado con mascarilla facial [cite: 354]"
+        ],
+        "correct_answer": "Intratraqueal en bolo fraccionado durante la ventilación mecánica [cite: 352]"
+      }
+    ]
+  },
+  {
+    "case_title": "CASO SERIADO: Recién nacido de 38 semanas (Ictericia)",
+    "case_content": "Recién nacido de 38 semanas de gestación, producto de parto vaginal sin complicaciones, peso 3,200 g, Apgar 9/10[cite: 355]. Egresó con su madre a las 24 horas de vida[cite: 356]. Madre con grupo sanguíneo Rh positivo, sin antecedentes perinatales relevantes[cite: 357]. A las 48 horas de vida, la madre acude a urgencias porque nota al bebé \"amarillo\" hasta el abdomen[cite: 358]. Se encuentra activo, alimentándose bien, con buena ganancia de peso[cite: 359].",
+    "questions": [
+      {
+        "question": "¿Cuál es la conducta inicial más adecuada? [cite: 359]",
+        "options": [
+          "Indicar suspensión de la lactancia materna por 24 horas [cite: 360]",
+          "Iniciar fototerapia inmediata por riesgo de kernicterus [cite: 361]",
+          "Solicitar ecografia cerebral por sospecha de hemorragia subgaleal [cite: 362]",
+          "Solicitar bilirrubinas séricas total y fraccionada (directa/indirecta) y biometría hemática con recuento de reticulocitos[cite: 363]."
+        ],
+        "correct_answer": "Solicitar bilirrubinas séricas total y fraccionada (directa/indirecta) y biometría hemática con recuento de reticulocitos [cite: 363]"
+      },
+      {
+        "question": "Los resultados de laboratorio muestran: bilirrubina total: $14~mg/dL$ (predominio Indirecto: $13.2~mg/dL)$, hemoglobina: $11.5~g/dL$, reticulocitos: 8%, prueba de Coombs directa: positiva. Grupo sanguineo del RN: A Rh positivo. ¿Cuál es el diagnóstico más probable? [cite: 364, 365]",
+        "options": [
+          "Enfermedad hemolitica por incompatibilidad Rh [cite: 366]",
+          "Déficit de glucosa-6-fosfato deshidrogenasa (G6PD) [cite: 367]",
+          "Ictericia fisiológica [cite: 368]",
+          "Enfermedad hemolitica por incompatibilidad ABO [cite: 369]"
+        ],
+        "correct_answer": "Enfermedad hemolitica por incompatibilidad ABO [cite: 369]"
+      },
+      {
+        "question": "El paciente tiene 52 horas de vida Según el nomograma de la Academia Americana de Pediatria (AAP) para ictericia en $RNge35$ semanas, una bilirrubina total de $14~mg/dL$ a las 52 horas se encuentra en zona de \"alto riesgo moderado\" (percentil 75-95). ¿Cuál es la conducta más adecuada? [cite: 371, 372]",
+        "options": [
+          "Exanguinotransfusión inmediata [cite: 373]",
+          "Administrar fenobarbital oral [cite: 374]",
+          "Alta domiciliaria con control en 24 horas [cite: 375]",
+          "Iniciar fototerapia convencional [cite: 376]"
+        ],
+        "correct_answer": "Iniciar fototerapia convencional [cite: 376]"
+      },
+      {
+        "question": "El paciente recibe fototerapia durante 24 horas y se logra descenso de bilirrubina a $10~mg/dL$ La madre pregunta si puede volver a amamantar sin restricción (había estado complementando con fórmula). Además, desea saber el riesgo de recurrencia en futuros embarazos. ¿Cuál es la conducta a seguir mas adecuada? [cite: 377, 378]",
+        "options": [
+          "Puede amamantar exclusivamente; en futuros embarazos el riesgo es el mismo porque la incompatibilidad ABO no es prevenible, pero se debe vigilar Ictericia precoz[cite: 379].",
+          "Debe suspender lactancia materna definitivamente; en futuros embarazos se debe administrar inmunoglobulina anti-D[cite: 380].",
+          "Puede amamantar pero con suplemento de fórmula en cada torna; el riesgo de recurrencia es menor si el próximo hijo es del mismo grupo que la madre[cite: 381, 382].",
+          "Debe cambiar a fórmula exclusiva para siempre; no hay riesgo de recurrencia[cite: 383]."
+        ],
+        "correct_answer": "Puede amamantar exclusivamente; en futuros embarazos el riesgo es el mismo porque la incompatibilidad ABO no es prevenible, pero se debe vigilar Ictericia precoz [cite: 379]"
+      },
+      {
+        "question": "Durante la aplicacion de la fototerapia, el RN presenta evacuaciones líquidas y de color verde oscuro, asi como una erupción cutánea macular. La madre está preocupada. ¿Cuál es la conducta correcta a seguir? [cite: 384, 385]",
+        "options": [
+          "Suspender fototerapia inmediatamente por reacción adversa grave [cite: 388]",
+          "Continuar con la fototerapia y explicar a la madre que son efectos adversos esperados y autolimitados [cite: 389]",
+          "Cambiar a exanguinotransfusión por fracaso de fototerapia y las complicaciones agregadas [cite: 390]",
+          "Administrar antihistaminico O esteroide y suspender fototerapia por 6 horas [cite: 391]"
+        ],
+        "correct_answer": "Continuar con la fototerapia y explicar a la madre que son efectos adversos esperados y autolimitados [cite: 389]"
+      }
+    ]
+  },
+  {
+    "case_title": "CASO SERIADO: Recién nacido de 39 semanas (Infección)",
+    "case_content": "Recién nacido de 39 semanas, producto de parto vaginal con ruptura prematura de membranas de 22 horas[cite: 392]. Madre de 17 años, sin control prenatal, con fiebre de $38.5^{circ}C$ durante el trabajo de parto[cite: 393]. Al nacimiento: peso 3,100 g, Apgar $8/9$[cite: 394, 396]. A las 6 horas de vida, el neonato presenta irritabilidad, mala succión, hipotonía y temperatura axilar de $37.8^{circ}C$[cite: 394].",
+    "questions": [
+      {
+        "question": "¿Cuál es la conducta inicial más adecuada? [cite: 395]",
+        "options": [
+          "Alta a casa con control en 24 horas y administración de vitamina K y toma de examenes [cite: 397]",
+          "Iniciar antibioticoterapia empirica Intravenosa (aminopenicilina + aminoglucosido) previa torna de hemocultivo y solicitar biometría hemática + PCR[cite: 398].",
+          "Observar por 12 horas porque los signos son inespecíficos [cite: 399]",
+          "Se puede egresar con toma de examenes y tratamiento ambulatorio con amoxicilina oral por 7 dias[cite: 400]."
+        ],
+        "correct_answer": "Iniciar antibioticoterapia empirica Intravenosa (aminopenicilina + aminoglucosido) previa torna de hemocultivo y solicitar biometría hemática + PCR [cite: 398]"
+      },
+      {
+        "question": "Usted decide tomar exámenes, Los resultados de laboratorio muestran: leucocitos $5,800/mu L$ (neutrófilos absolutos $1,200/mu L)$, plaquetas $180,000/mu L$, PCR $18~mg/L$ (normal <5), hemocultivo pendiente. ¿Cuál de los siguientes hallazgos es el más sugestivo de sepsis neonatal temprana? [cite: 401, 402]",
+        "options": [
+          "Trombocitosis $>500,000/mu L$ [cite: 403]",
+          "Leucocitosis $>25,000/mu L$ [cite: 404]",
+          "Neutropenia absoluta $(<1,500/mu L)$ + PCR elevada [cite: 405]",
+          "Hemoglobina $>20~g/dL$ [cite: 406]"
+        ],
+        "correct_answer": "Neutropenia absoluta $(<1,500/mu L)$ + PCR elevada [cite: 405]"
+      },
+      {
+        "question": "A las 48 horas de tratamiento antibiótico, el neonato presenta: convulsiones tónicas, fontanela anterior tensa y succión débil persistente. El hemocultivo reporta Streptococcus agalactiae (GBS), ¿Cuál es la complicación más probable que justifica este cuadro? [cite: 407, 408]",
+        "options": [
+          "Encefalopatía hipóxico-isquémica [cite: 410]",
+          "Sindrome de abstinencia neonatal [cite: 410]",
+          "Hemorragia intraventricular grado IV [cite: 410]",
+          "Meningitis neonatal por GBS [cite: 410]"
+        ],
+        "correct_answer": "Meningitis neonatal por GBS [cite: 410]"
+      }
+    ]
+  },
+  {
+    "case_title": "CASO SERIADO: Recién nacido de 37 semanas (Metabolismo)",
+    "case_content": "Recién nacido de 37 semanas, peso 2,100 g, hijo de madre con diabetes gestacional mal controlada[cite: 411]. Al nacimiento, Apgar $8/9$. A las 2 horas de vida, se encuentra letárgico, hipotónico, con mala succión y temblores finos[cite: 412].",
+    "questions": [
+      {
+        "question": "¿Cuál es el estudio inicial de elección para orientar el diagnóstico? [cite: 413]",
+        "options": [
+          "Tomografía de cráneo [cite: 414]",
+          "Gasometría venosa + electrolitos y glucosa en sangre [cite: 415]",
+          "Antidoping, Electroencefalograma, Hemoglobina glucosilada [cite: 416]",
+          "Biometría Hemática, PCR, Hemocultivo [cite: 417]"
+        ],
+        "correct_answer": "Gasometría venosa + electrolitos y glucosa en sangre [cite: 415]"
+      },
+      {
+        "question": "Ante una glucosa capilar de $28~mg/dL,$ sintomático ¿Cuál es el tratamiento inmediato más adecuado? [cite: 421]",
+        "options": [
+          "Bolo de solución glucosa al 10% 2 mL/kg intravenoso + infusión continua de glucosa[cite: 426].",
+          "Alimentación con fórmula por sonda orogástrica cada 3 horas [cite: 427]",
+          "Administración de hidrocortisona Intravenosa [cite: 428]",
+          "Leche materna por succión directa [cite: 429]"
+        ],
+        "correct_answer": "Bolo de solución glucosa al 10% 2 mL/kg intravenoso + infusión continua de glucosa [cite: 426]"
+      }
+    ]
+  },
+  {
+    "case_title": "CASO SERIADO: Recién nacido de 36 semanas (Malformación)",
+    "case_content": "Recién nacido de 36 semanas, producto de parto vaginal. Madre con polihidramnios diagnosticado en el tercer trimestre[cite: 430, 431]. Al nacimiento, se observa babeo excesivo, episodios de cianosis al intentar alimentarlo y distrés respiratório[cite: 432]. Se intenta pasar sonda orogástrica con resistencia a los 10 cm[cite: 433].",
+    "questions": [
+      {
+        "question": "¿Cuál es el diagnóstico más probable? [cite: 433, 469]",
+        "options": [
+          "Atresia de esofago con fistula traqueoesofágica distalTipo耳[cite: 450, 451].",
+          "Fistula traqueoesofágica sin atresia [cite: 454]",
+          "Atresia duodenal [cite: 461]",
+          "Hernia diafragmática congénita [cite: 462]"
+        ],
+        "correct_answer": "Atresia de esofago con fistula traqueoesofágica distalTipo耳 [cite: 450, 451]"
+      },
+      {
+        "question": "La radiografia de tórax muestra sonda orogástrica enrollada en el mediastino superior y presencia de gas en asas intestinales ¿Qué hallazgo confirma el diagnóstico y cuál es el tipo de malformación según la clasificación de Gross? [cite: 468, 482]",
+        "options": [
+          "Sonda enrollada en el primer tercio del esófago + gas intestinal atresia con fistula distal Tipo C[cite: 483].",
+          "Sonda en esofago distal + ausencia de gas intestinal atresia tipo B[cite: 484].",
+          "Sonda en posición normal + gas Intestinal + neumotorax fistula sin atresia[cite: 485].",
+          "Sonda en estómago y ausencia de gas intestinal tipo A (atresia sin fistula)[cite: 486]."
+        ],
+        "correct_answer": "Sonda enrollada en el primer tercio del esófago + gas intestinal atresia con fistula distal Tipo C [cite: 483]"
+      },
+      {
+        "question": "¿Cuál es la medida inicial más importante antes de la reparación quirúrgica para prevenir complicaciones respiratorias graves? [cite: 422, 423, 424, 425]",
+        "options": [
+          "Colocar al paciente en decúbito prono [cite: 434]",
+          "Iniciar antibióticos de amplio espectro [cite: 435]",
+          "Colocar sonda de succión continua en el esófago para evitar aspiración de saliva[cite: 436].",
+          "Administrar surfactante exógeno [cite: 437]"
+        ],
+        "correct_answer": "Colocar sonda de succión continua en el esófago para evitar aspiración de saliva [cite: 436]"
+      }
+    ]
+  },
+  {
+    "case_title": "CASO SERIADO: Lactante de 4 meses (Respiratorio)",
+    "case_content": "Lactante de 4 meses, previamente sano, nacido a término, acude a urgencias en el mes de enero[cite: 443]. La madre refiere que hace 3 días inició con rinorrea, tos y fiebre de $38^{circ}C$ En las últimas 24 horas ha presentado dificultad respiratoria progresiva, tos persistente y rechazo parcial de las tomas[cite: 444, 447, 449, 452]. Al examen: frecuencia respiratoria 68 rpm, saturación de oxígeno 97% al aire ambiente, aleteo nasal, tiraje subcostal e intercostal, y sibilancias bilaterales a la auscultación. Se encuentra activo pero con fatiga al alimentarse[cite: 452, 455, 463, 464].",
+    "questions": [
+      {
+        "question": "¿Cuál es el diagnóstico más probable? [cite: 469]",
+        "options": [
+          "Crisis de asma [cite: 472]",
+          "Neumonia atípica por Mycoplasma pneumoniae[cite: 475, 489].",
+          "Bronquiolitis aguda [cite: 490]",
+          "Laringotraqueitis [cite: 491]"
+        ],
+        "correct_answer": "Bronquiolitis aguda [cite: 490]"
+      },
+      {
+        "question": "Según las Guías de Práctica Clínica actuales para el manejo de la bronquiolitis aguda, ¿Cuál de las siguientes conductas terapéuticas es la más adecuada en este paciente? [cite: 445, 446, 448]",
+        "options": [
+          "Administrar oxigeno suplementario e Iniciar corticoides sistémicos para reducir la inflamación de la vía aérea[cite: 459].",
+          "Administrar oxígeno suplementario e iniciar salbutamol y esteroides nebulizados[cite: 460, 465].",
+          "Administrar oxigeno suplementario para mantener saturación >90%, asegurar hidratación adecuada y aspiración de secreciones nasales; NO indicar broncodilatadores, corticoides ni antibióticos de forma rutinaria[cite: 466, 467, 470, 479].",
+          "Administrar oxigeno suplementario e iniciar antibioticoterapia empírica con ampicilina[cite: 480, 481]."
+        ],
+        "correct_answer": "Administrar oxigeno suplementario para mantener saturación >90%, asegurar hidratación adecuada y aspiración de secreciones nasales; NO indicar broncodilatadores, corticoides ni antibióticos de forma rutinaria [cite: 466, 467, 470, 479]"
+      }
+    ]
+  }
+]
