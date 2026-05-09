@@ -48,12 +48,12 @@ function App() {
   const existingAnswer = answers[answerKey]
   const hasAnswered = !!existingAnswer
 
-  const handleAnswer = useCallback((option, idx) => {
+  const handleAnswer = useCallback((letter) => {
     if (hasAnswered) return
-    const isCorrect = option === question.correct_answer
+    const isCorrect = letter === question.correct_answer
     setAnswers(prev => ({
       ...prev,
-      [answerKey]: { selected: option, selectedIndex: idx, isCorrect }
+      [answerKey]: { selected: letter, isCorrect }
     }))
   }, [hasAnswered, question, answerKey])
 
@@ -264,27 +264,27 @@ function App() {
         <div className="card question-card">
           <p className="question-text">{cleanText(question.question)}</p>
           <div className="options">
-            {question.options.map((option, idx) => {
-              const clean = cleanText(option)
+            {question.options.map((option) => {
+              const clean = cleanText(option.text)
               let cls = 'option-btn'
               if (hasAnswered || isReview) {
                 const ans = existingAnswer
-                if (option === question.correct_answer) cls += ' correct'
-                else if (ans && option === ans.selected) cls += ' incorrect'
+                if (option.letter === question.correct_answer) cls += ' correct'
+                else if (ans && option.letter === ans.selected) cls += ' incorrect'
               }
               return (
                 <button
-                  key={idx}
+                  key={option.letter}
                   className={cls}
-                  onClick={() => !isReview && handleAnswer(option, idx)}
+                  onClick={() => !isReview && handleAnswer(option.letter)}
                   disabled={hasAnswered || isReview}
                 >
-                  <span className="opt-letter">{String.fromCharCode(65 + idx)}</span>
+                  <span className="opt-letter">{option.letter}</span>
                   <span className="opt-text">{clean}</span>
-                  {(hasAnswered || isReview) && option === question.correct_answer && (
+                  {(hasAnswered || isReview) && option.letter === question.correct_answer && (
                     <CheckCircle className="opt-icon icon-correct" />
                   )}
-                  {(hasAnswered || isReview) && existingAnswer && option === existingAnswer.selected && option !== question.correct_answer && (
+                  {(hasAnswered || isReview) && existingAnswer && option.letter === existingAnswer.selected && option.letter !== question.correct_answer && (
                     <XCircle className="opt-icon icon-incorrect" />
                   )}
                 </button>
@@ -293,7 +293,7 @@ function App() {
           </div>
           {hasAnswered && !isReview && (
             <div className={`feedback ${existingAnswer.isCorrect ? 'feedback-correct' : 'feedback-incorrect'}`}>
-              {existingAnswer.isCorrect ? 'Correcto!' : 'Incorrecto — la respuesta correcta esta marcada en verde'}
+              {existingAnswer.isCorrect ? 'Correcto!' : `Incorrecto — la respuesta correcta es ${question.correct_answer}`}
             </div>
           )}
         </div>
