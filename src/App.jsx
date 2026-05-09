@@ -1,5 +1,6 @@
 import { useState, useMemo, useCallback } from 'react'
 import data from './cases_questions_answers.json'
+import './App.css'
 import {
   ChevronLeft, ChevronRight, CheckCircle, XCircle, Award,
   BookOpen, Play, Home, Shuffle, Eye
