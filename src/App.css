@@ -394,6 +394,26 @@ button { font-family: inherit; }
   line-height: 1.7;
 }
 
+/* Question Image */
+.question-image-wrap {
+  margin-bottom: 1.25rem;
+  border-radius: var(--radius);
+  overflow: hidden;
+  border: 1px solid var(--surface-border);
+  background: var(--surface-dim);
+}
+
+.question-image {
+  display: block;
+  width: 100%;
+  max-height: 400px;
+  object-fit: contain;
+}
+
+.img-badge {
+  background: #8b5cf6;
+}
+
 /* Question */
 .question-text {
   font-size: 1.0625rem;

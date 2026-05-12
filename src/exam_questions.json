@@ -1,0 +1,421 @@
+[
+  {
+    "question": "Es considerado el primer médico forense de la historia.",
+    "options": [
+      { "letter": "A", "text": "Hsi Yuan Lu" },
+      { "letter": "B", "text": "Imhotep" },
+      { "letter": "C", "text": "Alfonso Quiroz Cuarón" },
+      { "letter": "D", "text": "Mario Rivas Souza" }
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "Son objetivos de la necropsia o autopsia médico legal.",
+    "options": [
+      { "letter": "A", "text": "Determinar causa y mecanismo de muerte, recuperación de indicios." },
+      { "letter": "B", "text": "Estimar intervalo postmortem" },
+      { "letter": "C", "text": "Contribuir en la identificación de personas" },
+      { "letter": "D", "text": "Todas las anteriores" }
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "Padre de la medicina forense en México.",
+    "options": [
+      { "letter": "A", "text": "Luis Hidalgo y Carpio" },
+      { "letter": "B", "text": "Agustín de Arellano" },
+      { "letter": "C", "text": "Mario Rivas Souza" },
+      { "letter": "D", "text": "Ambrosio Paré" }
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "Constricción del cuello por una fuerza activa que actúa por medio de un lazo, las manos, antebrazo o por un objeto que aplaste el cuello contra la columna vertebral, siendo más probable su origen homicida.",
+    "options": [
+      { "letter": "A", "text": "Asfixia mecánica por ahorcamiento." },
+      { "letter": "B", "text": "Asfixia mecánica por sofocación." },
+      { "letter": "C", "text": "Asfixia mecánica por sumersión." },
+      { "letter": "D", "text": "Asfixia mecánica por estrangulación" }
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "Tiempo de evolución de la siguiente equimosis.",
+    "image": "/question-5.png",
+    "options": [
+      { "letter": "A", "text": "Horas." },
+      { "letter": "B", "text": "2-3 días." },
+      { "letter": "C", "text": "3-6 días." },
+      { "letter": "D", "text": "7-12 días." }
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "Al que, por medio de la violencia física o moral, tenga cópula con persona mayor de edad, cualquiera que sea su sexo.",
+    "options": [
+      { "letter": "A", "text": "Violación" },
+      { "letter": "B", "text": "Acoso" },
+      { "letter": "C", "text": "Abuso sexual" },
+      { "letter": "D", "text": "Hostigamiento" }
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "Actuación temeraria o precipitada en el actuar médico. Afrontar un riesgo sin haber tomado las precauciones debidas para evitarlo.",
+    "options": [
+      { "letter": "A", "text": "Negligencia" },
+      { "letter": "B", "text": "Impericia" },
+      { "letter": "C", "text": "Imprudencia" },
+      { "letter": "D", "text": "Iatrogenia" }
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "Examen externo e interno que se realiza en un cadáver mediante un procedimiento científico y técnico para conocer, entre otros elementos, la causa de su fallecimiento.",
+    "options": [
+      { "letter": "A", "text": "Exhumación." },
+      { "letter": "B", "text": "Inhumación." },
+      { "letter": "C", "text": "Anamnesis." },
+      { "letter": "D", "text": "Necropsia." }
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "Omisión o demora injustificada en la actuación del médico, o la actuación perezosa, con falta de celo o de constancia profesional.",
+    "options": [
+      { "letter": "A", "text": "Inobservancia de normas y reglamentos" },
+      { "letter": "B", "text": "Iatrogenia" },
+      { "letter": "C", "text": "Imprudencia" },
+      { "letter": "D", "text": "Negligencia" }
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "Documento médico legal que tiene como objetivo describir y clasificar las lesiones que presenta una persona.",
+    "options": [
+      { "letter": "A", "text": "Clasificativo de lesiones." },
+      { "letter": "B", "text": "Reclasificativo de lesiones." },
+      { "letter": "C", "text": "Clasificativo definitivo de lesiones." },
+      { "letter": "D", "text": "Dictamen de medicina laboral." }
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "Una herida es la pérdida de continuidad de la piel. Su equivalente en tejido óseo es la fractura; en serosas, mucosas, vísceras y músculo es la laceración.",
+    "options": [
+      { "letter": "A", "text": "Verdadero" },
+      { "letter": "B", "text": "Falso" }
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "El anillo de enjugamiento y el anillo de contusión forman el anillo o halo de Fisch.",
+    "options": [
+      { "letter": "A", "text": "Verdadero" },
+      { "letter": "B", "text": "Falso" }
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "El principio de intercambio dice que, siempre que dos objetos entran en contacto transfieren parte del material que lo conforma al otro objeto, produciendo un intercambio de material, dada por una interacción entre dos o más personas en un lugar determinado.",
+    "options": [
+      { "letter": "A", "text": "Verdadero" },
+      { "letter": "B", "text": "Falso" }
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "Las muertes por intoxicación por cualquier sustancia son motivo obligatorio de notificación al Ministerio Público y por tanto, son indicación de necropsia.",
+    "options": [
+      { "letter": "A", "text": "Verdadero" },
+      { "letter": "B", "text": "Falso" }
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "De acuerdo a los artículos 343 y 344 de la Ley General de Salud, se requiere de un electrocardiograma para realizar el diagnóstico de muerte encefálica.",
+    "options": [
+      { "letter": "A", "text": "Verdadero" },
+      { "letter": "B", "text": "Falso" }
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "Clasificación médico legal de las lesiones de acuerdo al artículo 206 del Código Penal de Jalisco.",
+    "options": [
+      { "letter": "A", "text": "Sí ponen o no en peligro la vida." },
+      { "letter": "B", "text": "Si ponen o no en peligro la vida y si tardan más o menos de 15 días en sanar." },
+      { "letter": "C", "text": "Si tardan más de 21 días en sanar y ponen en peligro la vida." },
+      { "letter": "D", "text": "Si tardan hasta 15 días en sanar y ponen o no ponen en peligro la vida." }
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "¿A cuál lesión corresponde la siguiente imagen?",
+    "image": "/question-17.png",
+    "options": [
+      { "letter": "A", "text": "Herida" },
+      { "letter": "B", "text": "Hematoma" },
+      { "letter": "C", "text": "Excoriación" },
+      { "letter": "D", "text": "Equimosis" }
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "De acuerdo a la respuesta anterior, ¿Qué tipo de agente produjo la lesión?",
+    "options": [
+      { "letter": "A", "text": "Agente corto-contundente." },
+      { "letter": "B", "text": "Agente punzante." },
+      { "letter": "C", "text": "Agente punzo-cortante." },
+      { "letter": "D", "text": "Agente cortante." }
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "Son características de las heridas contusas.",
+    "options": [
+      { "letter": "A", "text": "De bordes nítidos y en forma de ojal." },
+      { "letter": "B", "text": "De bordes irregulares, paredes con puentes de piel y bordes equimóticos." },
+      { "letter": "C", "text": "De bordes escalonados, irregulares y nítidos." },
+      { "letter": "D", "text": "De forma circular con bordes invertidos." }
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "Código Penal Federal Artículo 288: toda alteración en la salud y cualquier otro daño que deja huella material en el cuerpo humano, si esos efectos son producidos por una causa externa.",
+    "options": [
+      { "letter": "A", "text": "Cambios tafonómicos." },
+      { "letter": "B", "text": "Lesión." },
+      { "letter": "C", "text": "Trauma." },
+      { "letter": "D", "text": "Traumatismo." }
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "En la balística de efectos, se trata del recorrido del proyectil dentro del cuerpo de la víctima.",
+    "options": [
+      { "letter": "A", "text": "Dirección." },
+      { "letter": "B", "text": "Trayecto." },
+      { "letter": "C", "text": "Trayectoria." },
+      { "letter": "D", "text": "Balística terminal." }
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "NOM del expediente clínico.",
+    "options": [
+      { "letter": "A", "text": "NOM 046" },
+      { "letter": "B", "text": "NOM 007" },
+      { "letter": "C", "text": "NOM 004" },
+      { "letter": "D", "text": "NOM 044" }
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "Asfixia mecánica que consiste en la constricción del cuello ejercida por un lazo sujeto a un punto fijo, siendo el peso del cuerpo lo que ejerce tracción hacia abajo.",
+    "options": [
+      { "letter": "A", "text": "Asfixia mecánica por sumersión." },
+      { "letter": "B", "text": "Asfixia mecánica por estrangulación." },
+      { "letter": "C", "text": "Asfixia mecánica por ahorcamiento." },
+      { "letter": "D", "text": "Asfixia mecánica por sofocación." }
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "Son objetivos del peritaje médico legal en materia de responsabilidad profesional.",
+    "options": [
+      { "letter": "A", "text": "Determinar causa de la muerte." },
+      { "letter": "B", "text": "Evaluar el apego a la lex artis ad hoc y valoración del daño corporal." },
+      { "letter": "C", "text": "Determinar intervalo postmortem." },
+      { "letter": "D", "text": "Culpar al médico y suspender su cédula profesional." }
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "Se considera un caso complejo en medicina forense.",
+    "options": [
+      { "letter": "A", "text": "Cadáver reciente por enfermedad." },
+      { "letter": "B", "text": "Asfixia mecánica por ahorcamiento." },
+      { "letter": "C", "text": "Cadáver carbonizado." },
+      { "letter": "D", "text": "Cadáver por arma de fuego." }
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "Tipo de arma blanca que produjo la herida en la región pectoral izquierda del paciente agredido.",
+    "image": "/question-26.png",
+    "options": [
+      { "letter": "A", "text": "Contundente." },
+      { "letter": "B", "text": "Punzante" },
+      { "letter": "C", "text": "Punzo-cortante" },
+      { "letter": "D", "text": "Corto-contundente" }
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "De acuerdo al Artículo 206 del Código Penal del Estado Libre y Soberano de Jalisco, ¿cómo clasificas a la lesión anterior?",
+    "options": [
+      { "letter": "A", "text": "Lesión que no pone en peligro la vida y tarda más de 15 días en sanar." },
+      { "letter": "B", "text": "Lesión que sí pone en peligro la vida y tarda más de 15 días en sanar." },
+      { "letter": "C", "text": "Lesión que no pone en peligro la vida y tarda menos de 15 días en sanar." },
+      { "letter": "D", "text": "Ninguna." }
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "De acuerdo a lo establecido en la NOM-046, ¿cuál es la conducta a seguir como médico de primer contacto ante una paciente de 13 años víctima de violación?",
+    "options": [
+      { "letter": "A", "text": "Enviar a la paciente a casa con signos de alarma." },
+      { "letter": "B", "text": "Enviar al médico legista." },
+      { "letter": "C", "text": "Ofrecer anticoncepción de emergencia y profilaxis contra ETS y VIH." },
+      { "letter": "D", "text": "Ingresar, canalizar y tomar signos vitales cada hora." }
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "¿Cuáles regiones anatómicas forman parte del área extragenital?",
+    "options": [
+      { "letter": "A", "text": "Cuello, mamas, muñecas y tobillos." },
+      { "letter": "B", "text": "Genitales externos, región anorrectal y periné." },
+      { "letter": "C", "text": "Muslos, región glútea e hipogastrio." },
+      { "letter": "D", "text": "Mamas y genitales externos." }
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "A la exploración física, ¿a qué tipo de mecanismo se deben las lesiones encontradas?",
+    "image": "/question-30.png",
+    "options": [
+      { "letter": "A", "text": "Contundente." },
+      { "letter": "B", "text": "Enfermedad." },
+      { "letter": "C", "text": "Arma de fuego." },
+      { "letter": "D", "text": "Corto-contundente." }
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "Selecciona el agente que produjo la lesión (pregunta 31).",
+    "image": "/question-31.png",
+    "options": [
+      { "letter": "A", "text": "Contundente." },
+      { "letter": "B", "text": "Arma de fuego." },
+      { "letter": "C", "text": "Corto-contundente." },
+      { "letter": "D", "text": "Punzante." }
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "Selecciona el agente que produjo la lesión (pregunta 32).",
+    "image": "/question-32.png",
+    "options": [
+      { "letter": "A", "text": "Contundente." },
+      { "letter": "B", "text": "Arma de fuego." },
+      { "letter": "C", "text": "Corto-contundente." },
+      { "letter": "D", "text": "Punzante." }
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "Selecciona el agente que produjo la lesión (pregunta 33).",
+    "image": "/question-33.png",
+    "options": [
+      { "letter": "A", "text": "Contundente." },
+      { "letter": "B", "text": "Arma de fuego." },
+      { "letter": "C", "text": "Corto-contundente." },
+      { "letter": "D", "text": "Punzante." }
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "Selecciona el agente que produjo la lesión (pregunta 35).",
+    "image": "/question-34.png",
+    "options": [
+      { "letter": "A", "text": "Contundente." },
+      { "letter": "B", "text": "Cortante." },
+      { "letter": "C", "text": "Corto-contundente." },
+      { "letter": "D", "text": "Punzante." }
+    ],
+    "correct_answer": "B"
+  },
+  {
+    "question": "Selecciona el agente que produjo la lesión (pregunta 36 imagen).",
+    "image": "/question-35.png",
+    "options": [
+      { "letter": "A", "text": "Contundente." },
+      { "letter": "B", "text": "Cortante." },
+      { "letter": "C", "text": "Arma de fuego" },
+      { "letter": "D", "text": "Punzante." }
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "De acuerdo al artículo 325 del Código Penal Federal, consiste en privar de la vida a una mujer por una razón de género.",
+    "options": [
+      { "letter": "A", "text": "Homicidio calificado." },
+      { "letter": "B", "text": "Homicidio culposo." },
+      { "letter": "C", "text": "Homicidio de mujeres." },
+      { "letter": "D", "text": "Feminicidio." }
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "Conjunto único de información y datos personales del paciente; consta de documentos con respecto a la intervención en la atención médica del paciente.",
+    "options": [
+      { "letter": "A", "text": "Expediente básico de identificación forense." },
+      { "letter": "B", "text": "Expediente clínico forense." },
+      { "letter": "C", "text": "Expediente clínico." },
+      { "letter": "D", "text": "Expediente de archivo básico de identificación." }
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "Las siguientes son razones de género establecidas en el artículo 325 del Código Penal Federal.",
+    "options": [
+      { "letter": "A", "text": "La víctima presenta signos de violencia sexual." },
+      { "letter": "B", "text": "Haya existido entre el sujeto activo y la víctima alguna relación de hecho (consanguinidad, afectiva, laboral, de confianza)." },
+      { "letter": "C", "text": "La víctima haya sido incomunicada." },
+      { "letter": "D", "text": "Todas las anteriores." }
+    ],
+    "correct_answer": "D"
+  },
+  {
+    "question": "Derecho de las víctimas de violación, legislado por la Ley General de Víctimas y por la NOM-046-SSA2-2005. Es una obligación de los servicios de salud ofrecerlo a las víctimas; negarlo implicaría responsabilidad profesional.",
+    "options": [
+      { "letter": "A", "text": "Interrupción voluntaria del embarazo." },
+      { "letter": "B", "text": "Envío a casa para recuperación." },
+      { "letter": "C", "text": "Manejo expectante." },
+      { "letter": "D", "text": "Ninguna de las anteriores" }
+    ],
+    "correct_answer": "A"
+  },
+  {
+    "question": "Organismo creado para que los usuarios de los servicios de salud puedan presentar una queja por probables actos u omisiones derivados de la prestación de los servicios médicos y tanto el paciente como el prestador de servicio de salud quieran resolverla de manera pacífica, mediante acuerdos conciliatorios y el arbitraje.",
+    "options": [
+      { "letter": "A", "text": "Secretaría de salud." },
+      { "letter": "B", "text": "ISSSTE." },
+      { "letter": "C", "text": "CONAMED." },
+      { "letter": "D", "text": "Fiscalía." }
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "Grupo británico que contribuyó al desarrollo del tomógrafo por medio de sus ganancias a través de la discográfica EMI.",
+    "options": [
+      { "letter": "A", "text": "Queen" },
+      { "letter": "B", "text": "The Rolling Stones" },
+      { "letter": "C", "text": "The Beatles" },
+      { "letter": "D", "text": "Nirvana" }
+    ],
+    "correct_answer": "C"
+  },
+  {
+    "question": "¿Qué significa México?",
+    "options": [
+      { "letter": "A", "text": "En el ombligo/centro de la luna" },
+      { "letter": "B", "text": "Entre ríos" },
+      { "letter": "C", "text": "Entre la arena" },
+      { "letter": "D", "text": "Lugar entre las flores." }
+    ],
+    "correct_answer": "A"
+  }
+]
